@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 50px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #333;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chào mừng đến với Trang Web của tôi</h1>
+    <p>Đây là một trang web được xây dựng bằng GitHub Pages.</p>
+    
+    <!-- Thêm hình ảnh -->
+    <img src="hinh-anh.jpg" alt="Ảnh demo từ GitHub Pages">
+
+    <p>Hình ảnh trên được tải lên cùng với file HTML này.</p>
+</body>
+</html>
